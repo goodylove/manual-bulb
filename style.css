@@ -1,0 +1,7 @@
+*{
+   margin: 0;padding: 0;box-sizing: border-box;
+}
+body{
+   background-color: rgb(233, 216, 196);
+}
+.page-container{display: grid;place-items: center;}
